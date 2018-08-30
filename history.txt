@@ -1,0 +1,14 @@
+
+user:亚丝娜 word:a time:Tue Aug 28 21:23:41 2018
+user:亚丝娜 word:father time:Tue Aug 28 21:23:44 2018
+user:亚丝娜 word:a time:Tue Aug 28 21:28:08 2018
+user:亚丝娜 word:father time:Tue Aug 28 21:28:10 2018
+user:王欣 word:father time:Thu Aug 30 19:59:20 2018
+user:王欣 word:mother time:Thu Aug 30 19:59:30 2018
+user:王欣 word:child time:Thu Aug 30 19:59:41 2018
+user:王欣 word:male time:Thu Aug 30 20:00:45 2018
+user:王欣 word:kill time:Thu Aug 30 20:00:53 2018
+user:亚丝娜 word:tick time:Thu Aug 30 20:12:26 2018
+user:亚丝娜 word:low time:Thu Aug 30 20:12:36 2018
+user:桐谷和人 word:great time:Thu Aug 30 20:26:37 2018
+user:桐谷和人 word:love time:Thu Aug 30 20:26:40 2018
